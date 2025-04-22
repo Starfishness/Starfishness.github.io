@@ -1,2 +1,1 @@
-# Starfishness.github.io
-<p>  The people exist here. </p>
+<p>  Please don't look at me, I'm trying my best to make this look nice. </p>
