@@ -1,1 +1,2 @@
-<p>  Please don't look at me, I'm trying my best to make this look nice. </p>
+<h1> Hey there! </h1>
+<p> My name is Jade J. Laidlaw! </p>
